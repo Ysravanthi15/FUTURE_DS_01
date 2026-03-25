@@ -63,8 +63,6 @@ The dashboard enables users to explore key business insights and supports data-d
 
 ## 📷 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
-
 ---
 
 ## 🎓 Learning Outcomes
