@@ -63,6 +63,11 @@ The dashboard enables users to explore key business insights and supports data-d
  Follow this for Dashboard Preview **Ecommerce Sales.png**
 ---
 
+## 📁 Dataset 
+📦 E-commerce Orders Dataset (Kaggle)
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
+Good for analyzing order trends and category performance.
+---
 ## 🎓 Learning Outcomes
 
 * Developed hands-on experience with Power BI dashboards
