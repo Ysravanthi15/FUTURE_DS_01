@@ -1,6 +1,4 @@
-Here’s a **professional GitHub README version with emojis** 👇
 
----
 
 # 📊 E-Commerce Sales Dashboard (Power BI)
 
